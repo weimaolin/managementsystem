@@ -1,0 +1,9 @@
+项目名称：后台管理系统
+前端：vue.js+element-ui框架
+后端：node+express+MySQL
+登录API：“/login“
+注册API：“/register”
+添加数据API：“/addContent”
+删除数据API：“/delete”
+修改数据API“/update”
+查询数据API：“/search”
